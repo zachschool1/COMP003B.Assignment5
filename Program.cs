@@ -1,3 +1,7 @@
+// Author: Zachary Jordan
+// Course: COMP003B
+// Faculty Name: Jonathan Cruz
+// Purpose: Demonstrate CRUD operations via ASP.NET Core Web API
 
 namespace COMP003B.Assignment5
 {
